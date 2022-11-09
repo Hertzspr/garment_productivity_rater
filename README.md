@@ -34,3 +34,4 @@ Make sure pipenv is already installed in your environment.
 - notebook.ipynb: documentation of how I did the preprocessing, EDA, modeling, and tuning
 - service.py: script to run the service on your local network
 - train.py: script to train and save the final model 
+- Pipfile & Pipfile.lock: pipenv files to prepare virtual enviroment
