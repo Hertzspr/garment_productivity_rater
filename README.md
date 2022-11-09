@@ -5,7 +5,7 @@
 
 Data sourced from: https://archive.ics.uci.edu/ml/datasets/Productivity+Prediction+of+Garment
 
-This is an implementation of supervised learning. The method used in this program is random tree regression. It predicts how productive the performance of garment processing can be. 
+This is an implementation of supervised learning to solve regression problem. The model used in this program after exploration in notebook.ipynb is random tree. It predicts how productive the performance of garment processing can be. 
 
 # Instructions on how to run the project
 
