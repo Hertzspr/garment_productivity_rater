@@ -11,7 +11,7 @@ This is an implementation of supervised learning to solve regression problem. Th
 
 Assuming you have docker and python installed in your environment. From your terminal, do these: 
 1. Pull the image from dockerhub with ```docker pull sumurpikulkargo/garment_model```
-2. Run the image with ```docker run -it --rm -p 3000:3000 garment_productivity_model:latest``` 
+2. Run the image with ```docker run -it --rm -p 3000:3000 garment_productivity_model:oahvo5k7j6kqpxcb``` 
 3. Open http://localhost:3000/ in your web browser.
 4. Use the 'try it out' feature in the POST /classify InferenceAPI(JSON → JSON) to input some garment processing data to infer the productivity rate. 
 
