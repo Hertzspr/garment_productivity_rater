@@ -1,5 +1,8 @@
 # garment_productivity_rater
 
+![Capture](https://user-images.githubusercontent.com/95233522/200820662-1b560a28-442e-4ae6-9410-f1dd60264fd8.JPG)
+
+
 
 # Description of the problem
 
@@ -14,6 +17,8 @@ Assuming you have docker and python installed in your environment. From your ter
 2. Run the image with ```docker run -it --rm -p 3000:3000 garment_productivity_model:oahvo5k7j6kqpxcb``` 
 3. Open http://localhost:3000/ in your web browser.
 4. Use the 'try it out' feature in the POST /classify InferenceAPI(JSON → JSON) to input some garment processing data to infer the productivity rate. 
+
+![aaaa sasa](https://user-images.githubusercontent.com/95233522/200820980-9e766771-84a2-4215-84c5-f7b97b368531.JPG)
 
 If you want to run the program directly without docker image: 
 Make sure pipenv is already installed in your environment. 
