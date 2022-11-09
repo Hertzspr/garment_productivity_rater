@@ -32,5 +32,5 @@ Make sure pipenv is already installed in your environment.
 - bentofile.yaml: file to build bento
 - garments_worker_productivity.csv: data source used to train the model
 - notebook.ipynb: documentation of how I did the preprocessing, EDA, modeling, and tuning
-- service.py: script to run the model on your local network
+- service.py: script to run the service on your local network
 - train.py: script to train and save the final model 
